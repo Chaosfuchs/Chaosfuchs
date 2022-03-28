@@ -13,7 +13,7 @@
  
  ---
 
-:musical_score: :notes: - Ask me about my musical taste...  <(ᵔᴥᵔ)>
+:musical_score: - Ask me about my musical taste... :notes: <(ᵔᴥᵔ)>
 
 :video_game: - Fanatic Gamer and Collector of Gaming-Stuff
 
