@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, this is my introduction :blue_heart:
 
 <!--
 **Chaosfuchs/Chaosfuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Mimigma2](https://user-images.githubusercontent.com/102142386/160433967-da31117c-1f1e-40e9-ae6e-06c7201116e6.png)
+
+ 
+ :one: :nine: :nine: :five: - :scorpius:
+
+:musical_score: :notes: - Ask me about my musical taste...  <(ᵔᴥᵔ)>
+
+:video_game: - Fanatic Gamer and Collector of Gaming-Stuff
+
+---
+
+|   |   |   |
+|---|---|---|
+|   |   |   |
+
+
+
+![OwnPixeledMimikyu](https://user-images.githubusercontent.com/102142386/160444750-cde9dfec-011c-4e0f-a088-4bc60e50e07e.png)
+
