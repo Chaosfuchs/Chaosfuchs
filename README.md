@@ -9,7 +9,7 @@
  
 - ❤️ I'm currently studying at a bootcamp
  
-- 🌱 I’m currently learning to become a Webdeveloper 
+- 🌱 I’m currently learning to become a (Web)-Developer 
  
  ---
 
