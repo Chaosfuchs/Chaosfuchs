@@ -1,4 +1,4 @@
-### Hey there :blue_heart:
+# Hey there, welcome to my GitHub Profile! :blue_heart:
 
 <!--
 **Chaosfuchs/Chaosfuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,9 +9,24 @@
  
 - ❤️ I'm currently studying at a bootcamp
  
-- 🌱 I’m currently learning to become a (Web)-Developer 
- 
+- 🌱 I’m an aspiring and motivated Web-Developer
+
+---
+
+## My Techstack
+
+Git, GitHub
+HTML5, CSS3, JavaScript
+
+React, Next.js, npm, styled components, zustand.js
+
+UI/UX Design, Framer, Figma, MongoDB, Cloudinary
+  
  ---
+ 
+ ## This is me
+
+<img alt="Mimikyu" width="380" align="right" src="https://user-images.githubusercontent.com/102142386/160444750-cde9dfec-011c-4e0f-a088-4bc60e50e07e.png"/>
 
 :musical_score: - Ask me about my musical taste... :notes: <(ᵔᴥᵔ)>
 
@@ -19,12 +34,9 @@
 
 :memo: - Hobby Artist and Writer of Fantasy-Stories/ text-based role-playing games
 
----
-:camera:[Instagram](https://www.instagram.com/snowfoxlp/)
-
-💻 [Vercel](https://vercel.com/chaosfuchs)
 
 > "If you can't change the cards you're dealt. Change how you play your hand."  :spades:
+
 
 |Hobbys            |Games                         |Music                     |
 |:-----------------|:-----------------------------|:-------------------------|
@@ -34,9 +46,15 @@
 |:volcano:&:dragon:|Nintendo Games (old and new)  |Alan Walker               |
 |:art:             |Rogue-likes and Dungeoncrawler|much more different Genres| 
 
+
 ---
 
-![OwnPixeledMimikyu](https://user-images.githubusercontent.com/102142386/160444750-cde9dfec-011c-4e0f-a088-4bc60e50e07e.png)
+## Come visit me on: 
+
+:camera:[Instagram](https://www.instagram.com/snowfoxlp/)
+
+💻 [Vercel](https://vercel.com/chaosfuchs)
+
 ```
 ───────────────────────────────
 ───────────────████─███────────
