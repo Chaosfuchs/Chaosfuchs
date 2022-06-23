@@ -1,4 +1,4 @@
-# Hey there, welcome to my GitHub Profile! :blue_heart:
+# Hey there, welcome to my Profile! :blue_heart:
 
 <!--
 **Chaosfuchs/Chaosfuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
