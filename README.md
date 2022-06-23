@@ -26,7 +26,7 @@ UI/UX Design, Framer, Figma, MongoDB, Cloudinary
  
  ## This is me
 
-<img alt="Mimikyu" width="380" align="right" src="https://user-images.githubusercontent.com/102142386/160444750-cde9dfec-011c-4e0f-a088-4bc60e50e07e.png"/>
+<img alt="Mimikyu" width="300" align="right" src="https://user-images.githubusercontent.com/102142386/160444750-cde9dfec-011c-4e0f-a088-4bc60e50e07e.png"/>
 
 :musical_score: - Ask me about my musical taste... :notes: <(ᵔᴥᵔ)>
 
