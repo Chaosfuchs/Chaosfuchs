@@ -18,7 +18,8 @@
 Git, GitHub
 HTML5, CSS3, JavaScript
 
-React, Next.js, npm, styled components, zustand.js
+React, Next.js, npm, styled components, zustand.js,
+React Context, 
 
 UI/UX Design, Framer, Figma, MongoDB, Cloudinary
 
