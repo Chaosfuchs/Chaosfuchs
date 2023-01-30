@@ -7,7 +7,7 @@
  
  :one: :nine: :nine: :five: - :scorpius:
  
-- ❤️ I'm currently studying at a bootcamp
+- ❤️ I'm currently look closer to react js/ts
  
 - 🌱 I’m an aspiring and motivated Web-Developer
 
@@ -15,11 +15,11 @@
 
 ## My Techstack
 
-Git, GitHub
-HTML5, CSS3, JavaScript
+Git, GitHub, GitLab
+HTML5, CSS3, JavaScript, TypeScript
 
-React, Next.js, npm, styled components, zustand.js,
-React Context, 
+React, Next.js, npm, node, styled components, zustand.js,
+React Routing, React Context, Regex
 
 UI/UX Design, Framer, Figma, MongoDB, Cloudinary
 
