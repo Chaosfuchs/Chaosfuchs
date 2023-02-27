@@ -15,11 +15,11 @@
 
 ## My Techstack
 
-Git, GitHub, GitLab
-HTML5, CSS3, JavaScript, TypeScript
+Git, GitHub, GitLab, Jenkins, GitBucket
+HTML, CSS, JavaScript, TypeScript
 
-React, Next.js, npm, node, styled components, zustand.js,
-React Routing, React Context, Regex
+React, Next.js, Angular, npm, node, styled components, zustand.js,
+React Routing, React Context, Regex, Bootstrap, Framer (Motion), and learning More in this sec...
 
 UI/UX Design, Framer, Figma, MongoDB, Cloudinary
 
