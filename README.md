@@ -6,10 +6,12 @@
 -->
  
  :one: :nine: :nine: :five: - :scorpius:
- 
+
+- 👩‍💻 Currently working as IT Consultant/ Frontend Developer
+
 - ❤️ I'm currently look closer to react js/ts
  
-- 🌱 I’m an aspiring and motivated Web-Developer
+- 🌱 Aspiring and motivated Web-Developer with focus on React and UI/ UX Design
 
 ---
 
@@ -18,8 +20,10 @@
 Git, GitHub, GitLab, Jenkins, GitBucket, Docker,
 HTML, CSS, JavaScript, TypeScript
 
-React, Next.js, Angular, npm, node, styled components, zustand.js,
-React Routing, React Context, Regex, Material UI, Bootstrap, Framer (Motion)
+React, Next.js, Angular, npm, node, zustand.js,
+React Routing, React Context, Regex, I18next
+
+styled components, Material UI, Bootstrap, Framer (Motion)
 
 Creating Mockups and Wireframes,
 UI/UX Design, Framer, Figma, MongoDB, Cloudinary
@@ -106,7 +110,6 @@ and I will learn more ... ;)
 ──▄█▓▓▓▓▓█▄─█▓▓▓▓▓█▄───────────
 ──█▓▓▓▓▓▓▓▓██▓▓▓▓▓▓▓█──────────
 ──█▓▓▓▓▓▓▓▓██▓▓▓▓▓▓▓█──────────
-──▀████████▀▀███████▀──────────
 ```
 
 
