@@ -33,11 +33,11 @@ and I will learn more ... ;)
 ---
 ## 📊 Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaosfuchs&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chaosfuchs&theme=tokyonight&border_radius=30&exclude_days=Sun%2CSat&card_width=600)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaosfuchs&theme=tokyonight&layout=donut)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chaosfuchs&theme=tokyonight&exclude_days=Sun%2CSat&card_width=600)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaosfuchs&theme=tokyonight)
 
 ---
 
