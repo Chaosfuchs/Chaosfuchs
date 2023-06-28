@@ -13,7 +13,7 @@
 
 ---
 
-## My Techstack
+## 💻 My Techstack
 
 Git, GitHub, GitLab, Jenkins, GitBucket, Docker,
 HTML, CSS, JavaScript, TypeScript
@@ -25,10 +25,25 @@ Creating Mockups and Wireframes,
 UI/UX Design, Framer, Figma, MongoDB, Cloudinary
 
 and I will learn more ... ;)
-  
- ---
+
+---
+## 📊 Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaosfuchs&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chaosfuchs&theme=tokyonight&border_radius=30&exclude_days=Sun%2CSat&card_width=600)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaosfuchs&theme=tokyonight&layout=donut)
+
+---
+
+## 🏆 Github Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Chaosfuchs&theme=tokyonight&column=7)
+
+---
  
- ## This is me
+## This is me
 
 <img alt="Mimikyu" width="300" align="right" src="https://user-images.githubusercontent.com/102142386/160444750-cde9dfec-011c-4e0f-a088-4bc60e50e07e.png"/>
 
