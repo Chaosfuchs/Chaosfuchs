@@ -23,7 +23,7 @@ HTML, CSS, JavaScript, TypeScript
 React, Next.js, Angular, npm, node, zustand.js,
 React Routing, React Context, Regex, I18next
 
-styled components, Material UI, Bootstrap, Framer (Motion)
+styled components, emotion, Material UI, Bootstrap, Framer (Motion)
 
 Creating Mockups and Wireframes,
 UI/UX Design, Framer, Figma, MongoDB, Cloudinary
