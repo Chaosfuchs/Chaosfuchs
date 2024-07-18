@@ -9,16 +9,17 @@
 
 - 👩‍💻 Currently working as IT Consultant/ Frontend Developer
 
-- ❤️ I'm currently look closer to react js/ts
+- ❤️ I'm currently study SQL/ VBA
  
-- 🌱 Aspiring and motivated Web-Developer with focus on React and UI/ UX Design
+- 🌱 Aspiring and motivated Web-Developer with focus on React/JS and UI/ UX Design
 
 ---
 
-## 💻 My Techstack
+## 💻 My Techstack/ Knowledge
 
 Git, GitHub, GitLab, Jenkins, GitBucket, Docker,
 HTML, CSS, JavaScript, TypeScript
+(SQL, Visual Basics for Applications)
 
 React, Next.js, Angular, npm, node, zustand.js,
 React Routing, React Context, Regex, I18next
